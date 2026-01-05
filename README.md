@@ -1,7 +1,7 @@
-# MT Indicator Locker Online
+# MT Indicator Simple Locker Online
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-BaseMax%2FMT--Indicator--Locker--Online-blue?logo=github)](https://github.com/BaseMax/MT-Indicator-Locker-Online)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-BaseMax%2FMT--Indicator--Locker--Online-blue?logo=github)](https://github.com/BaseMax/MT-Indicator-Simple-Locker-Online)
 
 A free and open-source online tool to lock and protect your MetaTrader 5 (MT5) indicator (.mq5) with a SHA256 license key. Secure your MQL5 code and control distribution with ease.
 
@@ -24,7 +24,7 @@ A free and open-source online tool to lock and protect your MetaTrader 5 (MT5) i
 
 ## Online Demo
 
-Try the tool online: [MT Indicator Locker Online](https://basemax.github.io/MT-Indicator-Locker-Online/)
+Try the tool online: [MT Indicator Simple Locker Online](https://basemax.github.io/MT-Indicator-Simple-Locker-Online/)
 
 ## License
 
