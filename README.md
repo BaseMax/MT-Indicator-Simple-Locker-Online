@@ -1,35 +1,36 @@
-# MT Indicator Simple Locker Online
+# MT Indicator Simple Locker (Online)
 
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-BaseMax%2FMT--Indicator--Locker--Online-blue?logo=github)](https://github.com/BaseMax/MT-Indicator-Simple-Locker-Online)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Repository](https://img.shields.io/badge/GitHub-BaseMax%2FMT--Indicator--Locker--Online-blue?logo=github)](https://github.com/BaseMax/MT-Indicator-Simple-Locker-Online)
 
-A free and open-source online tool to lock and protect your MetaTrader 5 (MT5) indicator (.mq5) with a SHA256 license key. Secure your MQL5 code and control distribution with ease.
+**MT Indicator Simple Locker Online** is a free, open-source, browser-based utility for protecting MetaTrader 5 (MT5) indicator files (`.mq5`). It applies a SHA256-based license mechanism to your MQL5 source code, helping you secure distribution and usage without exposing your logic.
 
 ---
 
-## Features
+## Key Capabilities
 
-- Paste your MT5 indicator code and lock it with a unique SHA256 license key
-- License check is injected automatically into your code
-- Download the protected indicator ready for distribution
-- No code is sent to any server; all processing is done locally in your browser
-- MIT Licensed, open source
+* Lock MT5 indicator source code using a unique SHA256 license key
+* Automatically embeds license validation logic into the indicator
+* Export a ready-to-use, protected `.mq5` file
+* Fully client-side operation — no data is transmitted to external servers
+* Open-source project released under the MIT license
 
-## How to Use
+## Usage Guide
 
-1. Paste your original `.mq5` indicator code into the textarea.
-2. Enter your SHA256 license key (64 hex characters).
-3. Click **Apply License**.
-4. Download the patched indicator file with license protection.
+1. Paste your original MT5 indicator (`.mq5`) source code into the input area.
+2. Provide a valid SHA256 license key (64 hexadecimal characters).
+3. Click **Apply License** to process the code.
+4. Download the generated indicator with integrated license protection.
 
-## Online Demo
+## Live Demo
 
-Try the tool online: [MT Indicator Simple Locker Online](https://basemax.github.io/MT-Indicator-Simple-Locker-Online/)
+Access the online version here:
+[MT Indicator Simple Locker Online](https://basemax.github.io/MT-Indicator-Simple-Locker-Online/)
 
-## License
+## License Information
 
-MIT License
+Copyright © 2025
 
-Copyright (c) 2025 Seyyed Ali Mohammadiyeh
+**Seyyed Ali Mohammadiyeh**
 
-See [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License.
